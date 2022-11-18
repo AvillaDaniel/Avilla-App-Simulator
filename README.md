@@ -3,7 +3,7 @@ Emulation of application data in its original state.
 
 ![emulacao-arquivo-bin copy](https://user-images.githubusercontent.com/102838167/202791954-e2b5c670-deaa-40f8-9e7f-f3ba33a6fd22.jpg)
 
-![WhatsApp Image 2022-09-27 at 11 17 04](https://user-images.githubusercontent.com/102838167/202791603-2f710967-e92a-49c3-9f04-35c27f4ad4f1.jpeg)
+![WhatsApp Image 2022-09-27 at 11 17 04](https://user-images.githubusercontent.com/102838167/202793120-f426125f-05ff-4f9e-a8cc-cafccdbfba13.png)
 
 ![FTK](https://user-images.githubusercontent.com/102838167/202791715-965712f5-676c-42ec-93c0-5916b149ec4f.PNG)
 
