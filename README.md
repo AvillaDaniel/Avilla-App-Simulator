@@ -9,8 +9,14 @@ Emulation of application data in its original state.
 
 ![app-01](https://user-images.githubusercontent.com/102838167/202791775-ca8c3718-7061-46bc-9fc4-50be9175b546.PNG)
 
-![6](https://user-images.githubusercontent.com/102838167/202790928-9e7f652c-8150-49ec-b20a-07608aee9e1c.PNG)
+![app-02](https://user-images.githubusercontent.com/102838167/202792345-15a2a383-ebf1-41b1-8601-1814464c4333.PNG)
 
-![vm-01](https://user-images.githubusercontent.com/102838167/202791458-29fc8f84-9434-4b31-8fe8-de6776e9452c.PNG)
+![vm-01](https://user-images.githubusercontent.com/102838167/202792510-6f25141e-7b19-4fb0-9a9e-0c8591222364.PNG)
 
-![vm-03](https://user-images.githubusercontent.com/102838167/202791507-3d8ff18c-b8a2-43cc-a88f-e16152bd96ea.PNG)
+![app-03](https://user-images.githubusercontent.com/102838167/202792361-4ebd99e7-e1d1-472b-bc1f-1ed74e94a21b.PNG)
+
+![app-05](https://user-images.githubusercontent.com/102838167/202792378-672d75e5-ea93-4fbb-9a4d-4fffefab9364.PNG)
+
+![app-06](https://user-images.githubusercontent.com/102838167/202792402-bad5fc61-1065-42fb-acef-9dbc0b669ca5.PNG)
+
+![app-10](https://user-images.githubusercontent.com/102838167/202792732-155caefd-7067-4e67-896c-ab5eda543150.PNG)
