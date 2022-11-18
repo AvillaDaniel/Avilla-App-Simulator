@@ -20,3 +20,29 @@ Emulation of application data in its original state.
 ![app-06](https://user-images.githubusercontent.com/102838167/202792402-bad5fc61-1065-42fb-acef-9dbc0b669ca5.PNG)
 
 ![app-10](https://user-images.githubusercontent.com/102838167/202792732-155caefd-7067-4e67-896c-ab5eda543150.PNG)
+
+## 🌐 Download
+
+### .zip ()
+- 
+- 
+
+### 🚀 Donate:
+
+- PIX: 32145140832 (DANIEL HUBSCHER AVILLA)
+
+- Donate Pypal:
+- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Fernanda Santos)
+
+![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
+
+## ⚙️ Technologies used
+- C#.
+
+## 🚀 License
+- Free Software.
+
+## 🤖 Contacts
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
+- https://www.linkedin.com/in/daniel-a-avilla-0987/
+- daniel.avilla@policiacivil.sp.gov.br
