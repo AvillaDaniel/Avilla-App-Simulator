@@ -31,7 +31,7 @@ Emulation of application data in its original state.
 
 ### 🚀 Donate:
 
-- PIX: 32145140832 (DANIEL HUBSCHER AVILLA)
+- CHAVE PIX: 3901d8ea-22ca-4ba8-a0fb-2615e5485b2c
 
 - Donate Pypal:
 - Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Fernanda Santos)
